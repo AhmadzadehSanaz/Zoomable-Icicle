@@ -1,0 +1,404 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "Satisfaction with life",
+   "children": [
+    {
+     "name": "The sense of life/the best to worst",
+     "children": [
+      {"name": "...", "value": 3938},
+      {"name": "...", "value": 3812}
+     ]
+    },
+    {
+     "name": "Satisfaction with life as a whole",
+     "children": [
+      {"name": "...", "value": 3534},
+      {"name": "...", "value": 5731}
+     ]
+    },
+    {
+     "name": "...",
+     "children": [
+      {"name": "...", "value": 7074}
+     ]
+    }
+   ]
+  },
+
+  {
+   "name": "Affect",
+   "children": [
+    {"name": "Positive affects: feeling happy", "value": 17010},
+    {"name": "Negative affects: feeling sad", "value": 5842},
+    {
+     "name": "...",
+     "children": [
+      {"name": "...", "value": 1983},
+      {"name": "...", "value": 2047}
+     ]
+    }
+   ]
+  },
+
+  {
+   "name": "Psychological well-being",
+   "children": [
+    {
+     "name": "Sense of leading a purposeful life",
+     "children": [
+      {"name": "...", "value": 721},
+      {"name": "...", "value": 2220}
+     ]
+    },
+    {"name": "Feeling the things one does are worthwhile", "value": 1759},
+    {"name": "Sense of capability at what a person does", "value": 2165},
+    {"name": "...", "value": 586},
+    {"name": "...", "value": 3322}
+   ]
+  },
+  
+  {
+   "name": "Community",
+   "children": [
+    {
+     "name": "Sense of belonging",
+     "children": [
+        {"name": "Sense of belonging to a neighborhood", "value": 721},
+        {"name": "Sense that one sees oneself as part of a community", "value": 2220}
+     ]
+    }, 
+    {
+     "name": "Community participation",
+     "children": [
+        {"name": "Approximate total hours a month one was active in voluntary organizations", "value": 721},
+        {"name": "Sense that one sees oneself as part of a community", "value": 2220}
+     ]
+    },    
+    {
+     "name": "Social support",
+     "children": [
+        {"name": "Sense that if one were in trouble", "value": 721},
+        {"name": "Satisfaction with relationships", "value": 2220}
+     ]
+    },
+    {
+     "name": "Community safety",
+     "children": [
+        {"name": "Feeling safe walking alone around the area where one lives", "value": 721},
+        {"name": "Sense that most people can be trusted", "value": 2220},
+        {"name": "Crimes against the person per 1000 adults", "value": 2220}
+     ]
+    },
+    {
+     "name": "Discrimination",
+     "children": [
+        {"name": "Proportion of persons who are victims of physical or sexual harassment", "value": 721},
+        {"name": "Sense of discrimination in one’s neighborhood or community", "value": 2220}
+     ]
+    }
+   ]
+  },
+
+  {
+   "name": "Culture",
+   "children": [
+    {"name": "engagement with arts or cultural activity", "value": 4116}
+   ]
+  },
+
+  {
+   "name": "Education",
+   "children": [
+    {
+     "name": "Formal education",
+     "children": [
+        {"name": "Average years of schooling", "value": 721},
+        {"name": "Satisfaction with educational systems", "value": 2220}
+     ]
+    },    
+    {
+     "name": "Lifelong learning",
+     "children": [
+        {"name": "Access to opportunities to learn", "value": 721},
+        {"name": "Extent to which a) global citizenship education and b) education for sustainable development", "value": 2220}
+     ]
+    },
+    {"name": "...", "value": 1082}
+   ]
+  },
+
+  {
+   "name": "Economy",
+   "children": [
+    {
+     "name": "Standard of living",
+     "children": [
+        {"name": "Household Net Financial Wealth", "value": 721},
+        {"name": "Satisfaction with the financial situation of ones household", "value": 721},
+        {"name": "Average gross national income in purchasing power parity", "value": 721},
+        {"name": "Proportion of adults (15 years and older) with an account at a bank or other financial institution", "value": 2220}
+     ]
+    },
+    {
+     "name": "Economic equity and equality",
+     "children": [
+        {"name": "Income inequality or rich-poor gap or Gini index", "value": 721},
+        {"name": "How often a family goes without enough food to eat", "value": 2220}
+     ]
+    },
+    {
+     "name": "Jobs",
+     "children": [
+        {"name": "Unemployment rate, by sex, age, and persons with disabilities", "value": 721},
+        {"name": "Degree to which one is worried about losing their job or not finding a job", "value": 2220}
+     ]
+    },
+    {
+     "name": "Natural resources, consumption & production",
+     "children": [
+        {"name": "Recycling rates", "value": 721},
+        {"name": "Material consumption", "value": 2220}
+     ]
+    },
+    {
+     "name": "Business and entrepreneurship",
+     "children": [
+        {"name": "Proportion of small-scale industries in total industry value added", "value": 721},
+        {"name": "Sense that the area where one lives is a good place to live", "value": 2220}
+     ]
+    },
+    {"name": "...", "value": 1616}
+   ]
+  },
+
+  {
+   "name": "Environment",
+   "children": [
+    {
+     "name": "Environment general indicators",
+     "children": [
+        {"name": "Satisfaction with efforts to preserve the environment", "value": 721},
+        {"name": "Non-compliance with environmental laws and regulations", "value": 2220},
+        {"name": "Proportion of urban solid waste", "value": 2220}
+     ]
+    },
+    {
+     "name": "Climate change",
+     "children": [
+        {"name": "Reduction of greenhouse gas emissions", "value": 721},
+        {"name": "Reduction of energy consumption", "value": 2220},
+        {"name": "Proportion of population with primary reliance on clean fuels and technology", "value": 2220},
+        {"name": "How much (people) know about global warming or climate change", "value": 2220}
+     ]
+    },
+    {
+     "name": "Air",
+     "children": [
+        {"name": "Degree of satisfaction with the quality of air", "value": 721},
+        {"name": "Annual mean levels of fine particulate matter", "value": 2220}
+     ]
+    },
+    {
+     "name": "Water",
+     "children": [
+        {"name": "Change in water-use efficiency over time", "value": 721},
+        {"name": "Satisfaction with quality of water", "value": 2220},
+        {"name": "Proportion of bodies of water with good ambient water quality", "value": 2220},
+        {"name": "Proportion of wastewater safely treated", "value": 2220},
+        {"name": "Percentage of households with year round access to water", "value": 2220}
+     ]
+    },
+    {
+     "name": "Soil",
+     "children": [
+        {"name": "Crop yield gap: the actual yield as the percentage of attainable yield", "value": 721},
+        {"name": "Nitrogen use efficiency in food systems", "value": 2220},
+        {"name": "Proportion of agricultural area under productive and sustainable agriculture", "value": 2220}
+     ]
+    },
+    {
+     "name": "Biodiversity",
+     "children": [
+        {"name": "Endangered and threatened species", "value": 721},
+        {"name": "Habitats protected or restored", "value": 2220},
+        {"name": "Forest area as a proportion of total land area", "value": 2220}
+     ]
+    },  
+    {"name": "...", "value": 2105}
+   ]
+  },
+  
+  {
+   "name": "Government",
+   "children": [
+    {
+     "name": "Human rights",
+     "children": [
+      {"name": "Sense there is respect for individual human rights at present in ones country", "value": 9354},
+      {"name": "Sense there is freedom of assembly, demonstration, and open public discussion", "value": 9354},
+      {"name": "Sense there is equality of opportunity and the absence of economic exploitation", "value": 9354},
+      {"name": "Victims of human trafficking per 100 000 population, by sex, age", "value": 9354},
+      {"name": "Laws, policies that guarantee equal treatment of various segments of the population", "value": 9354},
+      {"name": "Conditions in pretrial facilities and prisons and humane and respectful treatment", "value": 1233}
+     ]
+    },
+    {
+     "name": "Institutions",
+     "children": [
+      {"name": "Satisfaction with ones last experience of public services", "value": 3165},
+      {"name": "Rule of law prevailing in civil and criminal matters", "value": 2815},
+      {"name": "Registration of voters and candidates conducted in an accurate transparent", "value": 2815},
+      {"name": "Sense that elections are fair", "value": 2815},
+      {"name": "Citizens have the legal right and practical ability to obtain information about government operations", "value": 2815},
+      {"name": "Defendants are given a fair, public, and timely hearing by a competent, independent", "value": 2815},
+      {"name": "Print, broadcast, and/or internet-based media are not directly or indirectly censored", "value": 3366},
+      {"name": "Trade unions are allowed to be established and to operate free from government interference", "value": 3366}
+     ]
+    },
+    {
+     "name": "Civic engagement",
+     "children": [
+      {"name": "Voter turnout", "value": 9354},
+      {"name": "Cultural, ethnic, religious, or other minority groups have full political rights", "value": 9354},
+      {"name": "Attendance of peaceful demonstrations in the last year", "value": 9354},
+      {"name": "Signing a petition(s) in the last year", "value": 9354},
+      {"name": "People have the right to organize in different political parties", "value": 1233}
+     ]
+    },
+    {
+     "name": "Trust in government",
+     "children": [
+      {"name": "Sense of confidence in government—national, local, civil service, judicial system.", "value": 9354},
+      {"name": "Sense that government is free from pervasive corruption", "value": 1233}
+     ]
+    },
+    {"name": "...", "value": 22026}
+   ]
+  },
+
+  {
+   "name": "Health",
+   "children": [
+    {
+     "name": "Physical health",
+     "children": [
+      {"name": "Healthy life expectancy", "value": 1302},
+      {"name": "Sense that ones state of health is good", "value": 24593},
+      {"name": "Sense of having enough energy to get things done", "value": 1302},
+      {"name": "Satisfaction with quality of health care", "value": 1302},
+      {"name": "Obesity in adults and adolescents", "value": 1302},
+      {"name": "Out-of-pocket payment for health", "value": 1302},
+      {"name": "Coverage of essential health services: defined as the average coverage of essential services", "value": 6703},
+      {"name": "Proportion of women of reproductive age (aged 15 to 49 years) who have their need for family planning", "value": 6703}
+     ]
+    },
+    {
+     "name": "Mental health",
+     "children": [
+      {"name": "Coverage of services for severe mental health disorders", "value": 2138},
+      {"name": "Suicide attempts", "value": 2138},
+      {"name": "Number of persons who have seen a health professional during a year", "value": 2138},
+      {"name": "Projects to support parenting skills", "value": 2138},
+      {"name": "Lost workdays due to mental disorder or substance use", "value": 8435}
+     ]
+    }
+   ]
+  },
+
+    {
+     "name": "Human Settlements",
+     "children": [
+    {
+      "name": "Human settlement general indicators",
+      "children": [
+      {"name": "Area of public and green space as a proportion of total city space", "value": 698},
+      {"name": "Satisfaction with beauty or physical setting", "value": 2247},
+      {"name": "Proportion of population living in households with access to basic services", "value": 2247}
+     ]
+    },
+    {
+     "name": "Housing",
+     "children": [
+      {"name": "Satisfaction with quality of housing", "value": 2313},
+      {"name": "Satisfaction with availability of good affordable housing", "value": 1701},
+      {"name": "Proportion of urban population living in slums, informal settlements", "value": 1117}
+     ]
+    },
+    {
+     "name": "Food",
+     "children": [
+      {"name": "Prevalence of undernourishment", "value": 20859},
+      {"name": "Secure access to food", "value": 4614}
+     ]
+    },
+    {
+     "name": "Transportation",
+     "children": [
+      {"name": "Proportion of population that has convenient access to public transport, by sex, age", "value": 4461},
+      {"name": "Satisfaction with transportation system in the city or area one lives", "value": 6314},
+      {"name": "Death rate due to road traffic injuries", "value": 3444}
+       ]
+      },
+     {
+     "name": "(ICT)",
+     "children": [
+      {"name": "Proportion of population covered by a mobile network, by technology", "value": 3179},
+      {"name": "Proportion of population that has a cellular phone", "value": 4060},
+      {"name": "Proportion of population that has access to the internet at home", "value": 4060},
+      {"name": "Proportion of population that has a computer at home", "value": 4060},
+      {"name": "Proportion of youth and adults with (ICT)", "value": 1830}
+       ]
+      }
+     ]
+    },
+
+    {
+    "name": "Work",
+        "children": [
+         {
+          "name": "Workplace governance",
+          "children": [
+           {"name": "Diversity of governance bodies and employees", "value": 721},
+           {"name": "Identifying and managing economic, environmental, and social", "value": 721},
+           {"name": "Operations with local community engagement, impact assessments, and development programs", "value": 721},
+           {"name": "Operations that have been subject to human rights reviews or impact", "value": 721},
+           {"name": "Mechanisms for advice and concerns about ethics", "value": 721},
+           {"name": "Communication and training about anti-corruption policies and procedures", "value": 2220}
+          ]
+         },
+         {
+          "name": "Workplace environment",
+          "children": [
+           {"name": "Satisfaction with job", "value": 721},
+           {"name": "Sense that current work life is interesting", "value": 721},
+           {"name": "Sense that ones supervisor has respect for and cares about ones welfare", "value": 721},
+           {"name": "Sense that one gets support and help from coworkers", "value": 721},
+           {"name": "Satisfaction with opportunities for professional development and promotion", "value": 721},
+           {"name": "Sense that the conditions of ones job allows one to be about as productive as one could be", "value": 721},
+           {"name": "Sense of independence one has in performing tasks at work", "value": 721},
+           {"name": "Workers representation in formal joint management worker health and safety committees", "value": 721},
+           {"name": "Satisfaction with salary and benefits in current primary job", "value": 721},
+           {"name": "Ratio of basic salary and remuneration of women to men", "value": 2220},
+           {"name": "Expected earnings loss, measured as the percentage of the previous earnings", "value": 2220},
+           {"name": "Percentage of employees receiving regular performance and career development reviews", "value": 2220},
+           {"name": "Average hours of training per year per employee", "value": 2220},
+           {"name": "Types of injury and rates of injury, occupational diseases, lost days, and absenteeism,", "value": 2220}
+          ]
+         },
+        {
+          "name": "Work life balance",
+          "children": [
+           {"name": "Satisfaction with the balance between the time spent on the job", "value": 721},
+           {"name": "Proportion of employed people working 50 hours or more a week", "value": 2220},
+           {"name": "Average amount of time spent on leisure time out of doors, away from home in the previous 12 months", "value": 2220}
+          ]
+         }
+        ]
+       }
+
+
+
+   ]
+  }
